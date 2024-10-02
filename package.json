@@ -1,5 +1,5 @@
 {
-  "name": "voice-bot",
+  "name": "ln64-bot-template",
   "module": "index.ts",
   "type": "module",
   "devDependencies": {
